@@ -1,0 +1,11 @@
+---
+title: "blotter installation"
+output: html_notebook
+---
+
+
+```{r}
+library(blotter)
+demo('longtrend', ask=FALSE)
+```
+
